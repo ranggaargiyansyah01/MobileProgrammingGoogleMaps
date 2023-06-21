@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">coba</string>
+    <string name="title_activity_maps_ku">MapsActivityKu</string>
+    <string name="title_activity_maps_coba">MapsActivityCoba</string>
+</resources>
